@@ -1,5 +1,7 @@
 # ImageAdapterForWeex
-Simple weex image adapter
+Simple weex image adapter.
+weex 默认没有实现图片加载，这是我在网上找的最简单的图片加载实现了。。
+
 ```android
 package pub.yanglong.novel.weex;
 
